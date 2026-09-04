@@ -1,0 +1,49 @@
+############### Minimum Insertion Length = 9 ################
+
+QUALIFIED_insertions_min_len_ct = 250
+
+total_wuhan_insert_ct_matches = 51
+total_BA2_insert_ct_matches = 52
+total_BA286_insert_ct_matches = 52
+
+Wuhan CGG insert = ACACCGTGCGGC
+Wuhan CGG insert = TCGTAAGAACGG
+
+BA2 CGG insert = ACACCGTGCGGC
+BA2 CGG insert = TCGTAAGAACGG
+
+BA286 CGG insert = ACACCGTGCGGC
+BA286 CGG insert = TCGTAAGAACGG
+
+########### Wuhan-matching Insert Nuc Composition ############
+                        A = 29.56
+                        T = 29.08
+                        G = 22.78
+                        C = 18.58
+######### Wuhan-matching Insert-to-Genome Nuc Ratio ##########
+                        G = 1.16
+                        C = 1.01
+                        A = 0.99
+                        T = 0.91
+
+############ BA.2-matching Insert Nuc Composition ############
+                        A = 29.78
+                        T = 28.98
+                        G = 22.45
+                        C = 18.79
+########## BA.2-matching Insert-to-Genome Nuc Ratio ##########
+                        G = 1.15
+                        C = 1.03
+                        A = 0.99
+                        T = 0.90
+
+########### BA.2.86-matching Insert Nuc Composition ##########
+                        A = 29.78
+                        T = 28.98
+                        G = 22.45
+                        C = 18.79
+######### BA.2.86-matching Insert-to-Genome Nuc Ratio ########
+                        G = 1.15
+                        C = 1.03
+                        A = 0.99
+                        T = 0.90
